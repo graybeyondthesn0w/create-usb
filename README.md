@@ -1,6 +1,11 @@
 # Instructions for use:
 
 # Supported Devices
+## How do I find out my system codename?
+Press ESC, Refresh, and the Power Button, together.
+Usually, on the bottom of where it says to put in a recovery stick, there should be a jumble of letters and/or numbers in gray text, at the end of it, it should say your system codename.
+If you have a recovery menu that is a dark theme, you may need to look around the recovery menu to find it.
+If your system isn't here, it is most likely incompatible.
 
 ## tested systems - working
 
