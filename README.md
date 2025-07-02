@@ -63,6 +63,8 @@ For Ubuntu 22.04 and 23.10 images (UNSUPPORTED!), run ```cat ubuntu-unity.img.gz
 
 ## 2. Booting into the USB/SD Card
 
+# This does include your eMMC, any instructions in this section will be the same.
+
 > Remember! This guide always assumes you have developer mode with usb booting enabled.
 
 Insert the USB/SD Card you flashed into one of the available USB ports (do not use a USB/SD Card dongle, it will not work!)
